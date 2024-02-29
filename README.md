@@ -10,7 +10,7 @@ It's nessecary to enable all players to play your game, because every player is 
     - [Voice Chat](#voice-chat)
     - [Voice Chat Input](#voice-chat-input)
     - [Text-to-Speech (TTS)](#text-to-speech-tts)
-    = [Predefined phrases (with voice acting or TTS)](#predefined-phrases-with-voice-acting-or-tts)
+    - [Predefined phrases (with voice acting or TTS)](#predefined-phrases-with-voice-acting-or-tts)
 - [Speech-to-Text (STT)](#speech-to-text-stt)
 - [Screen Narration](#screen-narration)
 - [Subtitles](#subtitles)
@@ -25,7 +25,7 @@ It's nessecary to enable all players to play your game, because every player is 
 - [High Contrast Textures](#high-contrast-textures)
 
 
-## Communication Settings:
+## Communication Settings
 
 Communication in multiplayer games is very important. By providing differend ways to communicate with other players you can increase the accessibility of your game and players comfort.
 
